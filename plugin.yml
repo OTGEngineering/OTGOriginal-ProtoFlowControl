@@ -1,0 +1,9 @@
+name: ProtoFlowControl
+main: com.Xernium.ProtoFlow.PluginMain
+version: 1.32.174
+api-version: 1.13
+
+commands:
+  protoFlow:
+   description: Command node for ProtoFlowControl
+   aliases: [pf]
