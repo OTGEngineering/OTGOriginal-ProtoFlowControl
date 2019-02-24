@@ -1,9 +1,9 @@
-name: ProtoFlowControl
+name: ProtoFlow
 main: com.Xernium.ProtoFlow.PluginMain
 version: 1.32.174
 api-version: 1.13
 
 commands:
   protoFlow:
-   description: Command node for ProtoFlowControl
+   description: Command node for ProtoFlow
    aliases: [pf]
