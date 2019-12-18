@@ -1,3 +1,5 @@
+## Archived. This orgnization and its members have disbanded. There might still be occasional updates but don't expect too much.
+
 # ProtoFlowControl
 ## A toast to https://github.com/ProtocolSupport/ProtocolSupport/tree/mcpenew you guys rock
 This is a simple small Bukkit/Spigot Plugin to manage whitelisting 'Bedrock-Players' via ProtocolSupport-MCPE. This only caters to said Players
